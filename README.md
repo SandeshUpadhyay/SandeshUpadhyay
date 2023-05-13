@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sandesh Upadhyay</h1>
-<h3 align="center">learner | coder</h3>
+<h1 align="center">Hi 👋, Sandesh Upadhyay</h1>
+<h3 align="center">Web Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshupadhyay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshupadhyay" alt="sandeshupadhyay" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- Python ,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandeshUpadhyay/SandeshUpadhyay.git](https://github.com/SandeshUpadhyay/SandeshUpadhyay.git)
 
